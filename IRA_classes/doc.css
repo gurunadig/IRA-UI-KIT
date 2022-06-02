@@ -1,0 +1,266 @@
+/* Paragraph */
+.fs_head
+.fs_subhead
+.fs_title
+.fs_desc
+
+/* Text-alignments */
+.t_center
+.t_left
+.t_right
+.t_justify
+.t_wrap
+.t_upp
+.t_low
+.t_camle
+
+
+/* Padding */
+.pt_5
+.pt_10
+.pt_15
+.pt_20
+.pt_25
+.pt_30
+
+.pl_5
+.pl_10
+.pl_15
+.pl_20
+.pl_25
+.pl_30
+
+.pr_5
+.pr_10
+.pr_15
+.pr_20
+.pr_25
+.pr_30
+
+.pb_5
+.pb_10
+.pb_15
+.pb_20
+.pb_25
+.pb_30
+
+
+.px_auto
+.py_auto
+
+
+/* Margin */
+.mt_5
+.mt_10
+.mt_15
+.mt_20
+.mt_25
+.mt_30
+
+.ml_5
+.ml_10
+.ml_15
+.ml_20
+.ml_25
+.ml_30
+
+.mr_5
+.mr_10
+.mr_15
+.mr_20
+.mr_25
+.mr_30
+
+.mb_5
+.mb_10
+.mb_15
+.mb_20
+.mb_25
+.mb_30
+
+.mx_auto
+.my_auto
+
+
+
+/* Button */
+ira-button
+.btn
+/* button styling */
+.btn_fill
+.btn_borderd
+
+/* button by size */
+.btn_stretch
+
+.btn_custom
+.btn_custom2
+
+
+/* Grids */
+ira-container
+ira-row
+ira-col
+
+/* Mobile min=576px */
+
+.sm_col_1
+.sm_col_2
+.sm_col_3
+.sm_col_4
+.sm_col_5
+.sm_col_6
+.sm_col_7
+.sm_col_8
+.sm_col_9
+.sm_col_10
+.sm_col_11
+.sm_col_12
+
+
+/* Tab min=768px */
+
+.md_col_1
+.md_col_2
+.md_col_3
+.md_col_4
+.md_col_5
+.md_col_6
+.md_col_7
+.md_col_8
+.md_col_9
+.md_col_10
+.md_col_11
+.md_col_12
+
+
+/* Large screen / desktop  min=992px */
+
+.lg_col_1
+.lg_col_2
+.lg_col_3
+.lg_col_4
+.lg_col_5
+.lg_col_6
+.lg_col_7
+.lg_col_8
+.lg_col_9
+.lg_col_10
+.lg_col_11
+.lg_col_12
+
+
+/* Extra Large screen / Desktop min=1200px */
+
+.xl_col_1
+.xl_col_2
+.xl_col_3
+.xl_col_4
+.xl_col_5
+.xl_col_6
+.xl_col_7
+.xl_col_8
+.xl_col_9
+.xl_col_10
+.xl_col_11
+.xl_col_12
+
+
+/* XXl Large screen / Desktop min=1200px */
+
+.exl_col_1
+.exl_col_2
+.exl_col_3
+.exl_col_4
+.exl_col_5
+.exl_col_6
+.exl_col_7
+.exl_col_8
+.exl_col_9
+.exl_col_10
+.exl_col_11
+.exl_col_12
+
+
+/* Flex */
+
+/* Flex direction */
+.ira_flex
+.ira_flex_row
+.ira_flex_col
+
+/* Horizontal alignment */
+.ira_justify_start
+.ira_justify_center
+.ira_justify_end
+
+/* Verticle alignment */
+.ira_align_top
+.ira_align_mid
+.ira_align_bottom
+
+
+/* card */
+
+ira-card
+    .card_head
+    .card_subhead
+    img
+    .card_desc
+    .card_foot
+
+
+img 
+    .img_res
+    .img_center
+    .img_start
+    .img_end
+    .img_border
+    .img_round
+
+
+/* Form */
+.ira_form
+.ira_label
+.ira_input
+.ira_span
+.ira_text_area
+.ira_radio
+.ira_checkbox
+.ira_select
+
+
+/* Tables */
+/* Table components */
+.ira_tb
+.ira_tb_head
+.ira_tb.row
+.ira_tb.data
+
+/* Table behaviour */
+.ira_tb_sticky
+.ira_tb_horizontal
+.ira_tb_responsive
+
+/* Table template Custom styles */
+.ira_tb_style_1
+.ira_tb_style_2
+.ira_tb_style_3
+.ira_tb_style_4
+
+
+/* List */
+.ira_ul
+.ira_li
+
+/* List template Custom styles */
+
+.ira_li_style_1 
+.ira_li_style_2
+.ira_li_style_3
+.ira_li_style_4
+
+
+
+
+
