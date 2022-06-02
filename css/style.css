@@ -1,0 +1,56 @@
+/* Dark theme default */
+body{
+    background-color: rgb(39, 39, 39);
+    color: #ffffff;
+}
+
+
+
+
+/* side bar  */
+.sidebar{
+    min-height: 100vh;
+    border-right: 2px #fff solid ;
+}
+
+.side_menu_li ul{
+    list-style:none;
+}
+
+.side_menu_li ul li{
+    margin-top: 30px;
+    
+    border-bottom: 1px solid #fff;
+}
+
+.text_center{
+    text-align: center;
+}
+
+
+
+
+
+
+
+/* main content */
+.main-content{
+    min-height: 100vh;
+}
+
+.border{
+
+    /* border: 1px solid red; */
+}
+
+
+
+
+.img_responsive{
+    height: auto;
+    width: 100%;
+}
+
+.max_400{
+    max-width: 400px;
+}
