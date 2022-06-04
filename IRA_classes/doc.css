@@ -166,7 +166,7 @@ ira-col
 .xl_col_12
 
 
-/* XXl Large screen / Desktop min=1200px */
+/* XXl Large screen / Desktop min=1400px */
 
 .exl_col_1
 .exl_col_2
@@ -180,6 +180,22 @@ ira-col
 .exl_col_10
 .exl_col_11
 .exl_col_12
+
+
+/* XXl Large screen / Desktop min=1600px */
+
+.e2xl_col_1
+.e2xl_col_2
+.e2xl_col_3
+.e2xl_col_4
+.e2xl_col_5
+.e2xl_col_6
+.e2xl_col_7
+.e2xl_col_8
+.e2xl_col_9
+.e2xl_col_10
+.e2xl_col_11
+.e2xl_col_12
 
 
 /* Flex */
@@ -231,22 +247,6 @@ img
 
 
 /* Tables */
-/* Table components */
-.ira_tb
-.ira_tb_head
-.ira_tb.row
-.ira_tb.data
-
-/* Table behaviour */
-.ira_tb_sticky
-.ira_tb_horizontal
-.ira_tb_responsive
-
-/* Table template Custom styles */
-.ira_tb_style_1
-.ira_tb_style_2
-.ira_tb_style_3
-.ira_tb_style_4
 
 
 /* List */
@@ -259,8 +259,5 @@ img
 .ira_li_style_2
 .ira_li_style_3
 .ira_li_style_4
-
-
-
 
 
