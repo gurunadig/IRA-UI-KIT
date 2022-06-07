@@ -1,17 +1,19 @@
 /* html{
     background-color: grey;
 }
+*/
 
-.row{
+.row , rowpo{
     background-color: #02f9f9 !important;
-    /* display:grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-    row-gap:700px;
+     /* display:grid; */
+    /* grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; */
+    /* row-gap:700px;
     column-gap:20px; */
-    /* border:1px solid green;
+     border:1px solid green;
 }
 
-.row div{
+
+.row div , rowpo div{
     border:1px solid yellow;
 } 
 .bord_red{
@@ -19,7 +21,7 @@
 }
 .bord_green{
     border: 1px solid green;
-} */
+}
  
 .bord_red{
     border: 1px solid red;

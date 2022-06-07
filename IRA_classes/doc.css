@@ -184,6 +184,8 @@ ira-col
 
 /* Flex */
 
+
+
 /* Flex direction */
 .ira_flex
 .ira_flex_row
@@ -199,6 +201,10 @@ ira-col
 .ira_align_mid
 .ira_align_bottom
 
+
+.ira-align-start
+.ira-align-end
+.ira-align-center
 
 /* card */
 
